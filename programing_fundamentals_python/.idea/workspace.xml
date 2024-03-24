@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09beffea-1e0d-4ee2-928f-8a4fce24fe15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03_Basic_Syntax_Conditional_Statements_and_Loops _More_Exercises/01_Find_The_Largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Basic_Syntax_Conditional_Statements_and_Loops _More_Exercises/02_Find_The_Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Basic_Syntax_Conditional_Statements_and_Loops _More_Exercises/03_Wolf_In_Sheep's_Clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Basic_Syntax_Conditional_Statements_and_Loops _More_Exercises/04_Sum_Of_A_Beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Data_Types_and_Variables_More_Exercises/01_Exchange_Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Data_Types_and_Variables_More_Exercises/02_Prime_Number_Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Data_Types_and_Variables_More_Exercises/03_Decrypting_Messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Data_Types_and_Variables_More_Exercises/04_Balanced_Brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/01_Invert_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/02_Multiples_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/03_Football_Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/04_Number_Beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/05_Faro_Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/06_Survival_of_the_Biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/07_Easter_Gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/08_Seize_the_Fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/09_Hello_France.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Lists_Basics_Exercise/10_Bread_Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Lists_Basics_Lab/01_Strange_Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Lists_Basics_Lab/02_Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Lists_Basics_Lab/03_List_Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Lists_Basics_Lab/04_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Lists_Basics_Lab/05_Numbers_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/01_Zeros_to_Back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/02_Messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/03_Car_Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/04_Josephus_Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/05_Tic_Tac_Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Lists_Basics_More_Exercises/06_List_Manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/01_Absolute_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/02_Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/03_Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/04_Repeat_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/05_Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/06_Calculate_Rectangle_Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Functions_Lab/07_Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/01_Smallest_of_Three_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/02_Add_and_Subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/03_Characters_in_Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/04_Odd_and_Even_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/05_Even_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/06_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/07_Min_Max_and_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/08_Palindrome_Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/09_Password_Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/10_Perfect_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/11_Loading_Bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_Functions_Exercise/12_Factorial_Division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Functions_More_Exercise/01_Data_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Functions_More_Exercise/02_Center_Point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Functions_More_Exercise/03_Longer_Line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Functions_More_Exercise/04_Tribonacci_Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_Functions_More_Exercise/05_Multiplication_Sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/01_No_Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/02_Trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/03_To_do_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/04_Palindrome_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/05_Sorting_Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/06_Even_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Lists_Advanced_Lab/07_The_Office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/01_Which_Are_In.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/02_Next_Version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/03_Word_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/04_Number_Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/05_Office_Chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/06_Electron_Distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/07_Group_of_10's.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/08_Decipher_This.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/09_Anonymous_Threat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/10_Pokemon_Don't_Go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/11_SoftUni_Course_Planning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Lists_Advanced_Exercise/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Lists_Advanced_More_Exercise/01_Social_Distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Lists_Advanced_More_Exercise/02_Take_Skip_Rope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Lists_Advanced_More_Exercise/03_Kate's_Way_Out.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Lists_Advanced_More_Exercise/04_Battle_Ships.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Objects_and_Classes _Lab/01_Comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Objects_and_Classes _Lab/02_Party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Objects_and_Classes _Lab/03_Email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Objects_and_Classes _Lab/04_Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Objects_and_Classes _Lab/05_Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/01_Storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/02_Weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/03_Catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/04_Town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/05_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/06_Inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/07_Articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/08_Vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Objects_and_Classes_Exercise/09_Movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/01_Bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/02_Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/03_Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/04_Students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/05_ASCII_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/06_Odd_Occurrences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Dictionaries_Lab/07_Word_Synonyms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/01_Count_Chars_in_a_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/02_A_Miner_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/03_Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/04_Phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/05_Legendary_Farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/06_Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/07_SoftUni_Parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/08_Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/09_Student_Academy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/10_Company_Users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/11_Force_Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Dictionaries_Exercise/12_SoftUni_Exam_Results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Dictionaries_More_Exercise/01_Ranking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Text_Processing_Lab/01_Reverse_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Text_Processing_Lab/02_Repeat_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Text_Processing_Lab/03_Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Text_Processing_Lab/04_Text_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Text_Processing_Lab/05_Digits_Letters_and_Other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/01_Valid_Usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/02_Character_Multiplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/03_Extract_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/04_Caesar_Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/05_Emoticon_Finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/06_Replace_Repeating_Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/07_String_Explosion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/08_Letters_Change_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/09_Rage_Quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/10_Winning_Ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Text_Processing_Exercise/2.1_Character_Multiplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_Regular_Expressions_Lab/01_Match_Full_Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_Regular_Expressions_Lab/02_Match_Phone_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_Regular_Expressions_Lab/03_Match_Dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_Regular_Expressions_Lab/04_Match_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/01_Capture_the_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/02_Find_Variable_Names_in_Sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/03_Find_Occurrences_of_Word_in_Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/04_Extract_Emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/05_Furniture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Regular_Expressions_Exercise/06_Extract_the_Links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/01_Programming_Fundamentals_Final_Exam_Retake/01_The_Imitation_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/01_Programming_Fundamentals_Final_Exam_Retake/02_Ad_Astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/01_Programming_Fundamentals_Final_Exam_Retake/03_The_Pianist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/02_Programming_Fundamentals_Final_Exam/01_World_Tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/02_Programming_Fundamentals_Final_Exam/02_Destination_Mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/02_Programming_Fundamentals_Final_Exam/03_Plant_Discovery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/03_Programming_Fundamentals_Final_Exam_Retake/01_Secret_Chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/03_Programming_Fundamentals_Final_Exam_Retake/02_Mirror_Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/03_Programming_Fundamentals_Final_Exam_Retake/03_Need_for_Speed_III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/01_Password_Reset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/02_Fancy_Barcodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/03_Heroes_of_Code_and_Logic_VII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/01_Activation Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/02_Emoji_Detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/03_P!rates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/01_Programming_Fundamentals_Mid_Exam/01_Computer_Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/01_Programming_Fundamentals_Mid_Exam/02_The_Lift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/01_Programming_Fundamentals_Mid_Exam/03_Memory_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/02_Programming_Fundamentals_Mid_Exam/01_SoftUni_Reception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/02_Programming_Fundamentals_Mid_Exam/02_Array_Modifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/02_Programming_Fundamentals_Mid_Exam/03_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/03_Programming_Fundamentals_Mid_Exam/01_Counter_Strike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/03_Programming_Fundamentals_Mid_Exam/02_Shoot_for_the_Win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/03_Programming_Fundamentals_Mid_Exam/03_Moving_Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/06_Programming_Fundamentals_Mid_Exam/01_Black_Flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/06_Programming_Fundamentals_Mid_Exam/02_Treasure_Hunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid_Exam/06_Programming_Fundamentals_Mid_Exam/03_Man_O_War.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2ZO7CN8dguGRtCaJiSA2Ma80yce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.03_P!rates">
+    <configuration name="01_Activation Keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/01_Activation Keys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_Emoji_Detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/02_Emoji_Detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_Fancy_Barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/02_Fancy_Barcodes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_Heroes_of_Code_and_Logic_VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/03_Heroes_of_Code_and_Logic_VII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_P!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Exam/05_Programming_Fundamentals_Final_Exam/03_P!rates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="programing_fundamentals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_P!rates" />
+        <item itemvalue="Python.02_Emoji_Detector" />
+        <item itemvalue="Python.01_Activation Keys" />
+        <item itemvalue="Python.03_Heroes_of_Code_and_Logic_VII" />
+        <item itemvalue="Python.02_Fancy_Barcodes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09beffea-1e0d-4ee2-928f-8a4fce24fe15" name="Changes" comment="" />
+      <created>1702281144281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702281144281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22_Text_Processing_Exercise/08_Letters_Change_Numbers.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final_Exam/04_Programming_Fundamentals_Final_Exam/01_Password_Reset.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

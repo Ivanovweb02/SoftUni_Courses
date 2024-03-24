@@ -1,0 +1,9 @@
+.html
+---ex_2.html
+.py
+---ex_1.py
+.txt
+---ex_3.txt
+---file_1.txt
+---output_1.txt
+---report.txt
